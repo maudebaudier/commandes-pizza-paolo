@@ -1,5 +1,4 @@
-// Colle ici l'URL de ton application web Apps Script (elle se termine par /exec).
-// Tant que cette ligne est vide, la page fonctionne en mode local :
-// les commandes ne sont visibles que sur l'appareil qui les a saisies.
+// Le salon partage ou atterrissent les commandes (service ntfy.sh, sans compte).
+// Change ce nom pour repartir dune liste vide.
 
-window.PP_API = "";
+window.PP_TOPIC = "pizza-paolo-2u9wn0yc5l1l";
